@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223115911098",
+    "project_id": "friend-favors",
+    "storage_bucket": "friend-favors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223115911098:android:229adc290d85a124488783",
+        "android_client_info": {
+          "package_name": "com.blueberryparm.friend_favors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223115911098-i56s5fil43nhbnfdrj1dli93mrbieu17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blueberryparm.friend_favors",
+            "certificate_hash": "02a98472d601bd834c3cff2891b19b729020c6ed"
+          }
+        },
+        {
+          "client_id": "223115911098-6mtd769ji5b96sh9758nhjqsm216a692.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTT2q_thu5cp44KtCJa_uzTpvwVMb4D_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223115911098-6mtd769ji5b96sh9758nhjqsm216a692.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

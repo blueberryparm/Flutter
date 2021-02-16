@@ -1,0 +1,14 @@
+{
+  "@@last_modified": "2021-01-20T12:39:51.650608",
+  "title": "Ciao Flutter Traduzioni",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "hello": "Ciao Flutter",
+  "@hello": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

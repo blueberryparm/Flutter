@@ -1,0 +1,3 @@
+# Flutter in Action
+
+## Flutter in Action teaches you to build professional-quality mobile applications using the Flutter SDK and the Dart programming language. You’ll begin with a quick tour of Dart essentials and then dive into engaging, well-described techniques for building beautiful user interfaces using Flutter’s huge collection of built-in widgets. The combination of diagrams, code examples, and annotations makes learning a snap. As you go, you’ll appreciate how the author makes easy reading of complex topics like routing, state management, and async programming.

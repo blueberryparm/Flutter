@@ -1,0 +1,3 @@
+# Value Widgets
+
+## We learned in the last chapter that everything is a widget. Everything you create is a widget and everything that Flutter provides us is a widget. Sure, there are exceptions to that, but it never hurts to think of it this way, especially as you’re getting started in Flutter. In this chapter we’re going to drill down into the most fundamental group of widgets that Flutter provides us – the ones that hold a value. We’ll talk about the Text widget, the Icon widget, and the Image widget, all of which display exactly what their names imply. Then we’ll dive into the input widgets – ones designed to get input from the user.

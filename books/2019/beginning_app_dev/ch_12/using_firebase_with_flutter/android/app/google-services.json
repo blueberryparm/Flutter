@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765680877587",
+    "project_id": "learning-flutter-8ee2f",
+    "storage_bucket": "learning-flutter-8ee2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765680877587:android:dddbcb3d7dfb9d8234bfe6",
+        "android_client_info": {
+          "package_name": "com.example.chapter_11_making_restful_calls_with_ajax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765680877587-bqf5so7lpvjk2otrtqofpf2koi4uo2dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhRiCsO4gmmReYppSEU5GNQs85BP3noc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765680877587-bqf5so7lpvjk2otrtqofpf2koi4uo2dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

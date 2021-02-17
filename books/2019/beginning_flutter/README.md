@@ -1,0 +1,6 @@
+# BEGINNING Flutter®
+# A HANDS ON GUIDE TO APP DEVELOPMENT
+
+## This book teaches you how to develop mobile applications for iOS and Android from a single codebase by using the Flutter framework and Dart as the programming language. As Flutter is expanding beyond mobile, you can take the knowledge that you learn in this book and apply it to other platforms. You don't need to have previous programming experience; the book starts with the basics and progresses to developing production‐ready applications.
+
+## Each chapter builds upon the previous ones and adds new concepts to advance your knowledge for building fast, beautiful, animated, and functional apps. By the end of this book, you'll be able to take the knowledge and techniques you have learned and apply them to develop your own applications. In the last four chapters of the book, you'll create a journal app with the ability to save data locally and a second journal app that adds mood tracking with state management, authentication, and multidevice data cloud syncing capabilities including offline sync, which is a must for today's mobile applications. I have made every effort to teach you the techniques using a friendly and commonsense approach so you can learn the basics all the way to advanced concepts needed for the workplace.

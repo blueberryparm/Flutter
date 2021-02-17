@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946703789876",
+    "project_id": "journal-139f5",
+    "storage_bucket": "journal-139f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946703789876:android:c59292ff7afe44b4d4ff61",
+        "android_client_info": {
+          "package_name": "com.blueberryparm.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946703789876-cg0qrq1r7jc0c3p1k7frr41jr8b0b29g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1q9rGITYpyYF1KlGHYQUNp6krKrtzR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946703789876-cg0qrq1r7jc0c3p1k7frr41jr8b0b29g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

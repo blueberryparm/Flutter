@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995500276136",
+    "project_id": "chatonfire-5116a",
+    "storage_bucket": "chatonfire-5116a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995500276136:android:2b6c68e4a3ed8c0203859d",
+        "android_client_info": {
+          "package_name": "com.blueberryparm.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995500276136-54m3p7kmfeabbspfe3mpjl872vjka9lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEngUeUE0B-bCHN2XxOqyPrO_i0CuFw4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995500276136-54m3p7kmfeabbspfe3mpjl872vjka9lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

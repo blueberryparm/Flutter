@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445226328237",
+    "project_id": "events-605bd",
+    "storage_bucket": "events-605bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445226328237:android:b27c07fab46ae5232b2624",
+        "android_client_info": {
+          "package_name": "com.blueberryparm.events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445226328237-knqeastoh89bnkum71j8bdo0h5ng04sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uHJ40SZf5t5tdCJoRAHdOM-NUt-51PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445226328237-knqeastoh89bnkum71j8bdo0h5ng04sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
